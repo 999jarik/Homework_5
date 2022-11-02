@@ -142,6 +142,7 @@ hr {
     border: 1px solid black;
 }
 .form-input {
+    padding-left: 15px;
     width: 276px;
     height: 35px;
     border: none;
