@@ -1,0 +1,41 @@
+.main {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+}
+.link {
+    margin: 30px 0 0 30px;
+    display: inline-block;
+    align-self: flex-start;
+    line-height: 35px;
+}
+table {
+    border-collapse: collapse;
+    border-color: black;
+}
+td {
+    border: 2px solid black;
+    text-align: center;
+}
+
+.white {
+    color: white;
+    background: white;
+}
+.yellow {
+    background: yellow;
+    color: yellow;
+}
+.red {
+    border: none;
+    background: red;
+    color: red;
+}
+.blue {
+    color: blue;
+    background: blue;
+}
+.black {
+    color: black;
+    background: black;
+}
